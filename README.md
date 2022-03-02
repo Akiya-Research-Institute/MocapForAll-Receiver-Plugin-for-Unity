@@ -24,3 +24,9 @@ In MocapForAll,
 - Open project
 - Open /Assets/VmtReceiver/VmtReceiverSampleScene.unity
 - Click play
+
+## Third party license notice
+
+This repository uses the following open source software:
+
+- [uOSC](https://github.com/hecomi/uOSC) created by hecomi
