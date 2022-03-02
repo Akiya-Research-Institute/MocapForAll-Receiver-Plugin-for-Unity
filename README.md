@@ -21,6 +21,8 @@
 - enter the same IP address as the receiver plugin in "Settings > Data export > destination IP address for VMT and VMC"
 - enter the same port as the receiver plugin in "Settings > Data export > VMT protocol > Send tracking points"
 
+![image](https://user-images.githubusercontent.com/89242761/156302356-58056f74-80a9-4278-b01c-f0512cbcd4f4.png)
+
 ### Unity
 
 - Open project
