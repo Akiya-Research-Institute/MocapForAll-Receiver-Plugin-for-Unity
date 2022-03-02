@@ -5,13 +5,15 @@
 ## Environment
 
 - Windows 10 64bit
-- Unity 2019.4.36f1
+- Unity
+  - 2019.4.36f1
+  - 2020.3.30f1
+  - 2021.2.13f1
  
 ## How to use
 
 ### Settings in MocapForAll
 
-In MocapForAll,
 - turn on "Settings > Data export > VMT protocol > Send tracking points"
 - turn off "Settings > Data export > VMT protocol > Send tracking points> As relative position to HMD"
 - turn on "Settings > Data export > VMT protocol > Send tracking points> Tracking points to be sent"
